@@ -10,7 +10,7 @@ export default function LandingPageServices() {
             <div className="p-8 rounded-lg bg-card/30 backdrop-blur-sm">
               <div className="flex flex-col gap-2 items-center mb-6">
                 <h3 className="text-xl font-semibold text-foreground">🟢 Starter</h3>
-                <span className="text-green-400 font-bold text-lg">R$ 500</span>
+                <span className="text-green-400 font-bold text-lg">R$ 800</span>
                 <p className="text-muted-foreground text-xs italic text-center">Comece sem gastar muito</p>
               </div>
               <ul className="space-y-3 text-muted-foreground text-sm">
@@ -27,7 +27,7 @@ export default function LandingPageServices() {
             <div className="p-8 rounded-lg bg-card/30 backdrop-blur-sm scale-[0.98]">
               <div className="flex flex-col gap-2 items-center mb-6">
                 <h3 className="text-xl font-semibold text-foreground">⚙️ Profissional</h3>
-                <span className="text-yellow-400 font-bold text-lg">R$ 950</span>
+                <span className="text-yellow-400 font-bold text-lg">R$ 1400</span>
                 <p className="text-muted-foreground text-xs italic text-center">Mais recursos, mas ainda limitado</p>
               </div>
               <ul className="space-y-3 text-muted-foreground text-sm">
@@ -44,7 +44,7 @@ export default function LandingPageServices() {
             <div className="p-8 rounded-lg bg-green-700/20 backdrop-blur-sm border border-green-600 shadow-xl scale-105">
               <div className="flex flex-col gap-2 items-center mb-6">
                 <h3 className="text-xl font-semibold text-white">👑 Premium</h3>
-                <span className="text-white font-bold text-lg">R$ 1.800</span>
+                <span className="text-white font-bold text-lg">R$ 1.600</span>
                 <p className="text-gray-200 text-xs italic text-center">Melhor custo-benefício</p>
               </div>
               <ul className="space-y-3 text-gray-100 text-sm">
