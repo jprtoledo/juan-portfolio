@@ -17,7 +17,7 @@ export default function Hero() {
             Juan Toledo
           </h1>
           <h2 className="text-xl md:text-2xl text-muted-foreground mb-8 font-light">
-            Engenheiro Fullstack Sênior & Consultor de Sofware
+            Engenheiro Fullstack Sênior & Consultor de Software
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground mb-12 max-w-2xl mx-auto font-light leading-relaxed">
             Ajudo a escalar produtos digitais otimizando performance, segurança e pagamentos.
