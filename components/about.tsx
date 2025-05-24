@@ -14,7 +14,7 @@ export default function About() {
             <div className="space-y-6">
               <p className="text-lg text-muted-foreground leading-relaxed">
                 Sou um Engenheiro Fullstack Sênior com mais de 5 anos de experiência em desenvolvimento de sistemas
-                críticos, especializando-me em arquiteturas serverless, sistemas de pagamento e plataformas SaaS de
+                críticos, especializando-me em arquiteturas escaláveis, sistemas de pagamento e landing pages
                 alta performance.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
@@ -55,7 +55,7 @@ export default function About() {
               </div>
               <div className="flex items-center gap-4">
                 <CheckCircle className="w-5 h-5 text-green-400 flex-shrink-0" />
-                <span className="text-muted-foreground">Arquitetura Serverless AWS</span>
+                <span className="text-muted-foreground">Arquitetura Escalável</span>
               </div>
               <div className="flex items-center gap-4">
                 <CheckCircle className="w-5 h-5 text-green-400 flex-shrink-0" />

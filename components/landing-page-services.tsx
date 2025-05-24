@@ -14,11 +14,15 @@ export default function LandingPageServices() {
                 <p className="text-muted-foreground text-xs italic text-center">Comece sem gastar muito</p>
               </div>
               <ul className="space-y-3 text-muted-foreground text-sm">
-                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Design responsivo ✅</li>
-                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Otimização para velocidade ❌</li>
-                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>SEO básico ✅</li>
-                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Formulário de contato ✅</li>
-                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Integração com planilha ❌</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Design completo ✅</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Computador / Celular ✅</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Otimização para velocidade ✅</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>SEO básico ❌</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>SEO avançado ❌</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Formulário de contato ❌</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Integração com Banco de Dados / CRM ❌</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>E-mail marketing ❌</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Copywriting ❌</li>
                 <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Revisão: 1</li>
                 <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Suporte: 3 dias</li>
               </ul>
@@ -31,11 +35,15 @@ export default function LandingPageServices() {
                 <p className="text-muted-foreground text-xs italic text-center">Mais recursos, mas ainda limitado</p>
               </div>
               <ul className="space-y-3 text-muted-foreground text-sm">
-                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>Design responsivo ✅</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>Design completo ✅</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>Computador / Celular ✅</li>
                 <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>Otimização para velocidade ✅</li>
                 <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>SEO básico ✅</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>SEO avançado ❌</li>
                 <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>Formulário de contato ✅</li>
-                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>Integração com planilha ✅</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>Integração com Banco de Dados / CRM ✅</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>E-mail marketing ❌</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>Copywriting ❌</li>
                 <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>Revisões: 2</li>
                 <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-yellow-400 rounded-full"></div>Suporte: 7 dias</li>
               </ul>
@@ -48,11 +56,13 @@ export default function LandingPageServices() {
                 <p className="text-gray-200 text-xs italic text-center">Melhor custo-benefício</p>
               </div>
               <ul className="space-y-3 text-gray-100 text-sm">
-                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Design responsivo ✅</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Design completo ✅</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Computador / Celular ✅</li>
                 <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Otimização para velocidade ✅</li>
-                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>SEO básico ✅ + avançado</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>SEO básico ✅</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>SEO avançado ✅</li>
                 <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Formulário de contato ✅</li>
-                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Integração com planilha ✅</li>
+                <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Integração com Banco de Dados / CRM ✅</li>
                 <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>E-mail marketing ✅</li>
                 <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Copywriting ✅</li>
                 <li className="flex items-center gap-3"><div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>Revisões: 3</li>

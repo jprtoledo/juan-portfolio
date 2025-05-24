@@ -15,7 +15,7 @@ export default function Contact() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
             <Link href="https://wa.me/5531989630555" target="_blank">
-              <Button size="lg" className="bg-blue-600 hover:bg-blue-700 border-0">
+              <Button size="lg" className="bg-blue-800 hover:bg-blue-900 border-0 text-foreground">
                 <Phone className="w-4 h-4 mr-2" />
                 (31) 98963-0555
               </Button>

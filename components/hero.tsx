@@ -24,7 +24,7 @@ export default function Hero() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
             <Link href="#contato">
-              <Button size="lg" className="bg-blue-600 hover:bg-blue-700 border-0">
+              <Button size="lg" className="bg-blue-800 hover:bg-blue-900 border-0 text-foreground">
                 Vamos Construir Juntos
                 <ArrowRight className="w-4 h-4 ml-2" />
               </Button>
@@ -44,10 +44,10 @@ export default function Hero() {
             </div>
             <div className="text-center p-6 rounded-lg bg-card/30 backdrop-blur-sm">
               <div className="text-4xl font-bold text-green-400 mb-2">$200k+</div>
-              <div className="text-sm text-muted-foreground">Recuperados/Gerados</div>
+              <div className="text-sm text-muted-foreground">de GMV Gerado</div>
             </div>
             <div className="text-center p-6 rounded-lg bg-card/30 backdrop-blur-sm">
-              <div className="text-4xl font-bold text-purple-400 mb-2">3+</div>
+              <div className="text-4xl font-bold text-purple-400 mb-2">4+</div>
               <div className="text-sm text-muted-foreground">Anos em Pagamentos</div>
             </div>
           </div>

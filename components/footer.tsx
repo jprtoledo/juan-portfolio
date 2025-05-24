@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="container mx-auto">
         <div className="w-full h-px bg-gradient-to-r from-transparent via-border to-transparent mb-8"></div>
         <div className="text-center">
-          <p className="text-muted-foreground">© 2024 Juan Toledo. Todos os direitos reservados.</p>
+          <p className="text-muted-foreground">© 2025 Juan Toledo. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>

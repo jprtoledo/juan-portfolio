@@ -10,10 +10,10 @@ export default function Experience() {
     <section id="experiencia" className="py-8 px-6">
       <div className="container mx-auto">
         <div className="w-full h-px bg-gradient-to-r from-transparent via-border to-transparent mb-20"></div>
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl font-bold text-center mb-16 text-foreground">Experiência & Conquistas</h2>
-          <div className="space-y-12">
-            <div className="p-8 rounded-lg bg-card/30 backdrop-blur-sm">
+          <div className="grid md:grid-cols-3 gap-8">
+            <div className="p-8 rounded-lg bg-card/30 backdrop-blur-sm flex flex-col">
               <div className="flex items-center gap-4 mb-4">
                 <DollarSign className="w-8 h-8 text-green-400" />
                 <div>
@@ -25,7 +25,7 @@ export default function Experience() {
                 Liderei a migração completa do sistema de tokens de pagamento, implementando nova arquitetura que
                 resultou em economia de <strong className="text-green-400">USD 120 mil</strong> anuais.
               </p>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-2 h-full items-end content-end">
                 <Badge variant="outline" className="border-border/50 text-muted-foreground">
                   Java
                 </Badge>
@@ -41,7 +41,7 @@ export default function Experience() {
               </div>
             </div>
 
-            <div className="p-8 rounded-lg bg-card/30 backdrop-blur-sm">
+            <div className="p-8 rounded-lg bg-card/30 backdrop-blur-sm flex flex-col">
               <div className="flex items-center gap-4 mb-4">
                 <Zap className="w-8 h-8 text-blue-400" />
                 <div>
@@ -53,7 +53,7 @@ export default function Experience() {
                 Melhorei a performance do sistema de assinaturas em <strong className="text-blue-400">18x</strong> e
                 eliminei perdas implementando processamento assíncrono com SQS e Lambda.
               </p>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-2 h-full items-end content-end">
                 <Badge variant="outline" className="border-border/50 text-muted-foreground">
                   AWS Lambda
                 </Badge>
@@ -69,7 +69,7 @@ export default function Experience() {
               </div>
             </div>
 
-            <div className="p-8 rounded-lg bg-card/30 backdrop-blur-sm">
+            <div className="p-8 rounded-lg bg-card/30 backdrop-blur-sm flex flex-col">
               <div className="flex items-center gap-4 mb-4">
                 <Server className="w-8 h-8 text-purple-400" />
                 <div>
@@ -82,7 +82,7 @@ export default function Experience() {
                 <strong className="text-purple-400"> 18% para 98%</strong> e melhorando significativamente a
                 manutenibilidade.
               </p>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-2 h-full items-end content-end">
                 <Badge variant="outline" className="border-border/50 text-muted-foreground">
                   Spring Boot
                 </Badge>
