@@ -8,21 +8,21 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Juan Toledo - Engenheiro Fullstack Sênior & Consultor SaaS",
+  title: "Juan Toledo",
   description:
-    "Especialista em sistemas de pagamento, arquitetura serverless e desenvolvimento SaaS. Ajudo empresas a escalar produtos digitais com performance e segurança.",
+    "Especialista em sistemas de pagamento, arquitetura serverless e desenvolvimento de Landing Pages. Ajudo empresas a escalar produtos digitais com performance e segurança.",
   keywords:
-    "Juan Toledo, Engenheiro Fullstack, Consultor SaaS, AWS, Java, Spring Boot, Serverless, Sistemas de Pagamento",
+    "Juan Toledo, Engenheiro Fullstack, Consultor de Software, AWS, Java, Spring Boot, Serverless, Sistemas de Pagamento, Saas, Landing Page",
   authors: [{ name: "Juan Toledo" }],
   openGraph: {
-    title: "Juan Toledo - Engenheiro Fullstack Sênior",
+    title: "Juan Toledo",
     description: "Especialista em sistemas de pagamento e arquitetura serverless",
     type: "website",
     locale: "pt_BR",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Juan Toledo - Engenheiro Fullstack Sênior",
+    title: "Juan Toledo",
     description: "Especialista em sistemas de pagamento e arquitetura serverless",
   },
 }
